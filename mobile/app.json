@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "Congo Logement",
-    "slug": "congologement",
+    "name": "congologment-app",
+    "slug": "congologement-app",
+    "owner": "brakiddys-team",
     "version": "1.0.0",
     "sdkVersion": "57.0.0",
     "orientation": "portrait",
@@ -50,8 +51,12 @@
       "typedRoutes": true
     },
     "extra": {
-      "selectedIconUrl": "https://sqgedrruthtbkskkjeqa.supabase.co/storage/v1/object/public/projects/b97f376a-c835-4573-94a3-d7bf17b5d9cf/fs/assets/images/icon.png?t=1789541462212",
-      "selectedIconId": "a82841e8-70f1-48b5-9ac3-087301e7faf2"
+      "defaultAppIconSet": true,
+      "selectedIconUrl": "https://sqgedrruthtbkskkjeqa.supabase.co/storage/v1/object/public/projects/b97f376a-c835-4573-94a3-d7bf17b5d9cf/fs/assets/images/icon.png?t=1788992883622",
+      "selectedIconId": "cf60c67c-e656-4a16-b50b-cabd1ccb54cd",
+      "eas": {
+        "projectId": "c7c77b47-a487-4473-932e-22c5b78037dc"
+      }
     }
   }
 }
